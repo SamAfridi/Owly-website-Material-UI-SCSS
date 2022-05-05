@@ -1,0 +1,20 @@
+@import "./../style/variable.scss";
+
+.courses {
+  display: flex;
+  width: 200px;
+  margin: 30px 10px;
+
+  & h6 {
+    padding: 5px;
+    margin-top: 5px;
+  }
+
+  &_Icon {
+    font-size: 50px !important;
+  }
+}
+.courses_image {
+  width: 500px;
+  
+}

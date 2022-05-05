@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,oFAAI;ADGZ,AAAA,cAAc,CAAA;EAEV,gBAAgB,ECCZ,OAAO;EDAX,OAAO,EAAE,YAAY;EACrB,OAAO,EAAE,QAAQ;EACjB,SAAS,EAAE,IAAI;CAChB;;AACH,AAAA,cAAc,CAAA;EAGX,SAAS,EAAC,KAAM;EAChB,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,YAAY;CACvB",
+    "sources": [
+        "yellowheading.scss",
+        "../style/variable.scss"
+    ],
+    "names": [],
+    "file": "yellowheading.css"
+}

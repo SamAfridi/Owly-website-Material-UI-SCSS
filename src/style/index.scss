@@ -1,0 +1,35 @@
+@import "./variable.scss";
+body {
+  font-family: $popin;
+  width: 100%;
+  color: black;
+}
+* {
+  box-sizing: border-box;
+  margin: 0%;
+}
+#root {
+  height: 100%;
+}
+
+.list {
+  max-width: 150px;
+
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  &_Item {
+    border-radius: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    // padding-left: 30% !important;
+    color: $yellow;
+
+    &:hover {
+      background-color: $yellow;
+      color: black;
+     
+    }
+  }
+}

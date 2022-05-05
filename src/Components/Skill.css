@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap");
+.skillBtn {
+  display: inline-block;
+  margin: 20px 10px;
+}
+
+#bgColor {
+  background-color: #dfdc27;
+}
+
+.Right-Circle {
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 100%;
+  min-height: 380px !important;
+  max-width: 380px;
+  background-color: #dfdc27;
+  font-size: 12px;
+}
+
+.Right-Circle-Icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 30px !important;
+}
+
+.Right-Circle-Icon:nth-child(even) {
+  margin-left: 30px !important;
+}
+/*# sourceMappingURL=Skill.css.map */

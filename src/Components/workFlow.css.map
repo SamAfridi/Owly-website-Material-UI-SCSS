@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,oFAAI;ADEZ,AAAA,QAAQ,CAAC;EACP,gBAAgB,ECGV,OAAO,CDHa,UAAU;EACpC,OAAO,EAAE,YAAY;EACrB,OAAO,EAAE,QAAQ;CAClB;;AACD,AAAA,aAAa,CAAC;EACZ,UAAU,EAAE,MAAM;EAClB,SAAS,EAAE,KAAK;EAChB,OAAO,EAAE,OAAO;CAUjB;;AAbD,AAKE,aALW,AAKV,UAAW,CAAA,GAAG,EAAE;EACf,UAAU,EAAE,KAAK;CAElB;;AARH,AAUE,aAVW,CAUT,CAAC,CAAC;EACF,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "workFlow.scss",
+        "../style/variable.scss"
+    ],
+    "names": [],
+    "file": "workFlow.css"
+}

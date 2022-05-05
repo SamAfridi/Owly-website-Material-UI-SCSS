@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap");
+.heading {
+  background-color: #dfdc27 !important;
+  display: inline-block;
+  padding: 0px 40px;
+}
+
+.Circual_Data {
+  text-align: center;
+  max-width: 220px;
+  padding: 0% 30px;
+}
+
+.Circual_Data:nth-child(odd) {
+  margin-top: 120px;
+}
+
+.Circual_Data p {
+  font-size: 10px;
+}
+/*# sourceMappingURL=workFlow.css.map */

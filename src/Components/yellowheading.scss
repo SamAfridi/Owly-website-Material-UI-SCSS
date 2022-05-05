@@ -1,0 +1,17 @@
+@import "./../style/variable.scss";
+
+
+.First_Heading{
+
+    background-color: $yellow;
+    display: inline-block;
+    padding: 5px 30px;
+    font-size: 22px;
+  }
+.secondHeading{
+
+   
+   max-width:450px ;
+   text-align: left;
+   display: inline-block;
+}  

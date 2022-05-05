@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap");
+.courses {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 200px;
+  margin: 30px 10px;
+}
+
+.courses h6 {
+  padding: 5px;
+  margin-top: 5px;
+}
+
+.courses_Icon {
+  font-size: 50px !important;
+}
+
+.courses_image {
+  width: 500px;
+}
+
+.First_Heading {
+  background-color: #dfdc27;
+  display: inline-block;
+  padding: 5px 30px;
+  font-size: 20px;
+}
+/*# sourceMappingURL=course.css.map */

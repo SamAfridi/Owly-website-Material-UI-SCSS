@@ -1,0 +1,57 @@
+@import "./../style/variable.scss";
+
+.bgColor {
+  background-color: $yellow;
+
+  & h2 {
+    background-color: white;
+    display: inline-block;
+    padding: 0px 50px;
+  }
+}
+.LightModeIcon {
+  font-size: 50px;
+}
+.starIcon {
+  font-size: 40px !important;
+  padding: 7px;
+}
+// .Circual{
+  
+//    height: 150px;
+//    width: 150px;
+//    text-align: center;
+//    border: 3px solid yellow;
+//    border-radius: 100%;
+//    outline: 2px dashed black;
+//    outline-offset: 10px;
+//    margin: -20px 0px 20px 40px;
+//   &:nth-child(1){
+
+//     background-color: $yellow;
+    
+// }
+// }
+.Icon{
+
+    margin: 45px 0px 0px 0px;
+    font-size: 70px !important;
+    // display: inline-block;
+  
+}
+.gridData{
+
+  border: 1px solid red;
+  text-align: center;
+  font-size: 12px;
+  padding: 30px;
+  font-weight: 600;
+  position: absolute;
+  
+
+  & h1{
+
+    padding-top: 25px;
+    font-size: 30px !important;
+  }
+}

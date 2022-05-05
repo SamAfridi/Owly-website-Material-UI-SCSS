@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap");
+.First_Heading {
+  background-color: #dfdc27;
+  display: inline-block;
+  padding: 5px 30px;
+  font-size: 22px;
+}
+
+.secondHeading {
+  max-width: 450px;
+  text-align: left;
+  display: inline-block;
+}
+/*# sourceMappingURL=yellowheading.css.map */

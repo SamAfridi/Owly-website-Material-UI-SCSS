@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap");
+.bgColor {
+  background-color: #dfdc27;
+}
+
+.bgColor h2 {
+  background-color: white;
+  display: inline-block;
+  padding: 0px 50px;
+}
+
+.LightModeIcon {
+  font-size: 50px;
+}
+
+.starIcon {
+  font-size: 40px !important;
+  padding: 7px;
+}
+
+.Icon {
+  margin: 45px 0px 0px 0px;
+  font-size: 70px !important;
+}
+
+.gridData {
+  border: 1px solid red;
+  text-align: center;
+  font-size: 12px;
+  padding: 30px;
+  font-weight: 600;
+  position: absolute;
+}
+
+.gridData h1 {
+  padding-top: 25px;
+  font-size: 30px !important;
+}
+/*# sourceMappingURL=OurAchievement.css.map */
